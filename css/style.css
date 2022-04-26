@@ -1,0 +1,15 @@
+html {
+  background: url("https://img.freepik.com/free-vector/abstract-white-shapes-background_79603-1362.jpg?t=st=1651001946~exp=1651002546~hmac=9a2f4359164c4110836f511805939b7146f34d7dffd2e0d8412b1e04fadc7451&w=740") no-repeat center center fixed;
+background-position: center;
+background-size: cover;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 1.5%;
+}
+h1{color: #006E7F;}
+h3{color:#006E7F;}
