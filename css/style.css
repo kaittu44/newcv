@@ -13,3 +13,15 @@ hr {
 }
 h1{color: #006E7F;}
 h3{color:#006E7F;}
+
+.name{
+font-size: 80px;
+color: #51557E;
+animation-name: example;
+animation-duration: 4s;
+animation-iteration-count: infinite;
+}
+@keyframes example {
+from {color:#00ADB5 ;}
+to {color:#F38181 ;}
+}
